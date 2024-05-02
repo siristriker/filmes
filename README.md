@@ -8,6 +8,7 @@ Este site é uma coleção dos filmes que mais me marcaram ao longo dos anos. De
 
 ## Como Navegar
 
+[Site](https://siristriker.github.io/filmes/index.html#menu)
 - **Lista:** Os filmes estão listados aleatoriamente não sendo necessariamente a ordem de preferência.
 - **Descrição do Filme:** Cada filme possui uma breve sinopse e um link que direciona para mais detalhes no site do Wikipedia.
 
